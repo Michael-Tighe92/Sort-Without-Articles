@@ -1,2 +1,3 @@
 # Sort-Without-Articles
-Created using Sort Without Articles (JavaScript30)
+
+- A Javascript project that sorts without articles such as "The" and "A".
